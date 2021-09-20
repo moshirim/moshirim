@@ -9,5 +9,5 @@ Here are some things worth noting:
 - 🤔 I’m interested in bridging the gap between financial analysis and computer engineering through:
     - Blockchain technology  
     - Machine learning
-- ⚡  I enjoy playing tennis, exercising, and listening to educational podcasts.
+- ⚡  I enjoy playing tennis, exercising, and listening to podcasts.
 - 📫 Feel free to reach me anytime - Gmail: mahyarmoshiri.mm@gmail.com
