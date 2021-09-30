@@ -1,4 +1,4 @@
-## Hi there, I'm Mahyar 👋
+## Hi GitHub, I'm Mahyar 👋
 
 ### I am a software engineer currently focused on developing web applications. 
 
