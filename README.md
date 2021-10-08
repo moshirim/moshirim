@@ -10,4 +10,4 @@ Here are some things worth noting:
     - Blockchain technology  
     - Machine learning
 - ⚡  I enjoy playing tennis, exercising, and listening to podcasts.
-- 📫 Feel free to reach me anytime - Gmail: mahyarmoshiri.mm@gmail.com
+- 📫 Feel free to reach me anytime - Gmail: mahyarmoshiri.mm@gmail.com 
